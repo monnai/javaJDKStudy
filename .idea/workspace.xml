@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2b04204-0127-47e7-867f-019c5e1e8579" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1202708456">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ignore-glob" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="173" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Fossil file" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="173" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2013" />
+          <entry key="txt" value="148" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2013" />
+          <entry key="PLAIN_TEXT" value="148" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ignore-glob">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../masterSpringMvc" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/interview1/README.txt" />
+        <option value="$PROJECT_DIR$/src/sourcecode/ArrayListStudy.java" />
+        <option value="$PROJECT_DIR$/src/interview1/test1.java" />
+        <option value="$PROJECT_DIR$/src/test/testHashMap.java" />
+        <option value="$PROJECT_DIR$/src/source/sun/awt/UNIXToolkit.java" />
+        <option value="$PROJECT_DIR$/src/source/com/sun/java/swing/plaf/gtk/PangoFonts.java" />
+        <option value="$PROJECT_DIR$/src/source/java/util/AbstractMap.java" />
+        <option value="$PROJECT_DIR$/src/test/mldn/bio/client/BIOEchoClient.java" />
+        <option value="$PROJECT_DIR$/src/test/mldn/nio/client/NIOEchoClient.java" />
+        <option value="$PROJECT_DIR$/src/test/mldn/aio/client/AIOEchoClient.java" />
+        <option value="$PROJECT_DIR$/src/test/mldn/aio/server/temp/AIOEchoServer.java" />
+        <option value="$PROJECT_DIR$/src/test/mldn/aio/server/AIOEchoServer.java" />
+        <option value="$PROJECT_DIR$/src/source/java/util/concurrent/Executors.java" />
+        <option value="$PROJECT_DIR$/src/source/java/net/ServerSocket.java" />
+        <option value="$PROJECT_DIR$/src/test/mldn/bio/server/BIOEchoServer.java" />
+        <option value="$PROJECT_DIR$/src/source/java/util/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/source/java/util/AbstractList.java" />
+        <option value="$PROJECT_DIR$/src/source/java/util/AbstractCollection.java" />
+        <option value="$PROJECT_DIR$/src/test/collection/testIterator.java" />
+        <option value="$PROJECT_DIR$/src/source/java/util/ArrayList.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/jeesite/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\svn1\10. 工具\settings - 副本.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="7" />
+    <option name="width" value="683" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaseStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaseStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaseStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaseStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaseStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaseStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaseStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaseStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaseStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="javasestudy" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="E:/tools/AndroidSDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585712723169" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/source" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15071283" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.mldn.nio.server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\！！实验室！！\值得再看\springmvc4实战读书项目\javaseStudy\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.testIterator.test1">
+    <configuration name="BIOEchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.mldn.bio.client.BIOEchoClient" />
+      <module name="javaseStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.mldn.bio.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BIOEchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.mldn.bio.server.BIOEchoServer" />
+      <module name="javaseStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.mldn.bio.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.testHashMap" />
+      <module name="javaseStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaseStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interview1" />
+      <option name="MAIN_CLASS_NAME" value="interview1.test1" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testIterator.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaseStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.collection" />
+      <option name="MAIN_CLASS_NAME" value="test.collection.testIterator" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.test1.test1" />
+      <item itemvalue="Application.testHashMap" />
+      <item itemvalue="Application.BIOEchoServer" />
+      <item itemvalue="Application.BIOEchoClient" />
+      <item itemvalue="JUnit.testIterator.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testIterator.test1" />
+        <item itemvalue="Application.BIOEchoClient" />
+        <item itemvalue="Application.BIOEchoServer" />
+        <item itemvalue="Application.testHashMap" />
+        <item itemvalue="JUnit.test1.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2b04204-0127-47e7-867f-019c5e1e8579" name="Default Changelist" comment="" />
+      <created>1584949285636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584949285636</updated>
+      <workItem from="1584949301672" duration="7156000" />
+      <workItem from="1585102217776" duration="6082000" />
+      <workItem from="1585273575472" duration="2200000" />
+      <workItem from="1585295907355" duration="5676000" />
+      <workItem from="1585555388168" duration="8966000" />
+      <workItem from="1585664032277" duration="850000" />
+      <workItem from="1585705414394" duration="26000" />
+      <workItem from="1585705506375" duration="85000" />
+      <workItem from="1585705630521" duration="18000" />
+      <workItem from="1585705686006" duration="6241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test1_test1 - 2020.03.25 at 10h 12m 25s.xml">
+      <configuration name="test1.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_test1 - 2020.03.25 at 10h 56m 25s.xml">
+      <configuration name="test1.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_test1 - 2020.03.25 at 10h 57m 00s.xml">
+      <configuration name="test1.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_test1 - 2020.03.25 at 11h 17m 34s.xml">
+      <configuration name="test1.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_test1 - 2020.03.25 at 11h 20m 21s.xml">
+      <configuration name="test1.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testIterator_test1 - 2020.04.01 at 11h 17m 26s.xml">
+      <configuration name="testIterator.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37300000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="683" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5888" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4390651" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40901503" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33222038" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.30406505" />
+      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="bottom" id="JRebel Console" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="MyBatis Log" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="PlantUML" order="5" weight="0.32930514" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
+      <window_info anchor="right" id="SciView" order="11" />
+      <window_info anchor="right" id="jclasslib" order="12" visible="true" weight="0.3712" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/testHashMap.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/mldn/bio/server/BIOEchoServer.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/mldn/bio/client/BIOEchoClient.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/mldn/bio/server/BIOEchoServer.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/interview1/README.txt" />
+    <entry file="file://$PROJECT_DIR$/src/sourcecode/ArrayListStudy.java" />
+    <entry file="file://$PROJECT_DIR$/src/interview1/test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/testHashMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/mldn/nio/server/HostInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/mldn/aio/client/AIOEchoClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/mldn/aio/server/temp/AIOEchoServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/mldn/aio/server/AIOEchoServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/mldn/bio/server/BIOEchoServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/mldn/nio/server/InputUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/mldn/bio/client/BIOEchoClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/source/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4484">
+          <caret line="261" column="22" selection-start-line="261" selection-start-column="22" selection-end-line="261" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/mldn/nio/client/NIOEchoClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/mldn/nio/server/NIOEchoServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/source/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="3849" column="26" selection-start-line="3849" selection-start-column="26" selection-end-line="3849" selection-end-column="26" />
+          <folding>
+            <element signature="e#178785#178786#0" expanded="true" />
+            <element signature="e#178832#178833#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="191" column="25" selection-start-line="191" selection-start-column="25" selection-end-line="191" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="90" column="11" lean-forward="true" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
+          <folding>
+            <element signature="e#2293#2294#0" expanded="true" />
+            <element signature="e#2327#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/collection/testIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="1388" column="26" lean-forward="true" selection-start-line="1388" selection-start-column="26" selection-end-line="1388" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaseStudy.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ignore-glob">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaseStudy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
