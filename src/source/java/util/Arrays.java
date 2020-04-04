@@ -3801,7 +3801,7 @@ public class Arrays {
     }
 
     /**
-     * @serial include
+     * @serial include 阉割了java.util.ArrayList一部分功能
      */
     private static class ArrayList<E> extends AbstractList<E>
         implements RandomAccess, java.io.Serializable
